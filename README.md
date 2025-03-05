@@ -12,3 +12,13 @@ A command-line-based calculator written in Python that performs basic arithmetic
 🚀Error Handling: Handles invalid inputs and division by zero gracefully.
 
 🚀User-Friendly Interface: Provides clear instructions and feedback for each step.
+
+## How It Works
+
+1.The program prompts the user to select an operation from the available options.
+
+2.The user inputs two numbers for the chosen operation.
+
+3.The program performs the calculation and displays the result.
+
+4.The user can reset the calculator or terminate the program at any time.
